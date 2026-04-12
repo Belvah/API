@@ -1,0 +1,17 @@
+
+<?xml version = "1.0" encoding = "UTF-8"?>
+<music_library>
+<album genre= "classic Rock">
+<title> The Dark Side of the Moon </title>
+<artist> Pink Floyd </artist>
+<release_year> 1973 </release_year> 
+
+<description>masterpiece &amp;progressive rock album</description>
+<age> Age is &lt; 10</age>
+<message>&quot; Hello&quot;</message>
+<tracks>
+<track number="1">Speak to Me</track>
+<track number="2">Breathe</track>
+</tracks>
+</album>
+</music_library>
